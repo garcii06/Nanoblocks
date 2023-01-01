@@ -92,5 +92,48 @@ nanoblock_clean <- nanoblock_raw |>
 write_csv(nanoblock_clean, "JPN Files/Nanoblock_clean_JPN.csv")
 
 # Rakuten data cleaning ---------------------------------------------------
+# Open de dataset in tibble form.
+rakuten_raw <- read_csv("JPN Files/rakuten_raw_JPN.csv")
 
+rakuten_raw |> 
+  glimpse()
 
+rakuten_raw |> 
+  view()
+
+# Filter repeated rows.
+rakuten_raw <- rakuten_raw |> 
+  group_by(nanoblock_item_number) |> 
+  filter(row_number() < 2)
+
+## Parsing item number column ---------------------------------------------
+# Standardize the item number column.
+rakuten_raw <- rakuten_raw |>  
+  mutate(nanoblock_item_number = str_trim(nanoblock_item_number, "right"),
+         nanoblock_item_number = str_replace(nanoblock_item_number, "-", "_"))
+
+## Parsing price ----------------------------------------------------------
+rakuten_raw <- rakuten_raw |> 
+  mutate(rakuten_price = str_remove(rakuten_price, "円"),
+         rakuten_price = str_trim(rakuten_price, "both"),
+         rakuten_price = parse_number(rakuten_price))
+
+## Parsing points ---------------------------------------------------------
+rakuten_raw <- rakuten_raw |> 
+  mutate(rakuten_points = str_remove(rakuten_points, "ポイント"),
+         rakuten_points = str_trim(rakuten_points, "both"),
+         rakuten_points = parse_integer(rakuten_points))
+
+## Parsing weight ---------------------------------------------------------
+# Although weigh is not included as a field, it can be extracted from the
+# description. ◆重量(g)：132 ◆
+rakuten_raw <- rakuten_raw |> 
+  mutate(rakuten_weight_g = str_extract(rakuten_item_description, "◆重量\\(g\\)：.*"),
+         rakuten_weight_g = str_remove(rakuten_weight_g, "◆重量\\(g\\)："),
+         rakuten_weight_g = parse_number(rakuten_weight_g))
+
+# Writing the clean version -----------------------------------------------
+rakuten_clean <- rakuten_raw |> 
+  select(nanoblock_item_number, rakuten_price, rakuten_points, rakuten_weight_g)
+
+write_csv(rakuten_clean, "JPN Files/rakuten_clean_JPN.csv")
