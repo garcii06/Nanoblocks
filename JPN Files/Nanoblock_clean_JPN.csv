@@ -1,11 +1,11 @@
 name,item_number,release_date_japan,package_size_mm,built_up_size_mm,pieces_single,pieces_box,total_pieces,target_age,difficulty_level,link_rakuten
-ミニナノ 名探偵コナン vol.4,NBMC_53,2023-01-21,105×180×13,32×38×28,50,6,300,12,NA,https://item.rakuten.co.jp/diablock/4972825225349/
-ミニナノ ドラゴンボールZ vol.3,NBMC_52,2023-01-21,105×180×13,30×38×40,50,6,300,12,NA,https://item.rakuten.co.jp/diablock/4972825225400/
+ミニナノ 名探偵コナン vol.4,NBMC_53,2023-01-21,105×180×13,32×38×28,50,6,300,12,None,https://item.rakuten.co.jp/diablock/4972825225349/
+ミニナノ ドラゴンボールZ vol.3,NBMC_52,2023-01-21,105×180×13,30×38×40,50,6,300,12,None,https://item.rakuten.co.jp/diablock/4972825225400/
 ドラゴンボールZ セル 完全体,NBDB_016,2023-01-21,105×180×13,36×62×24,110,NA,110,12,2,https://item.rakuten.co.jp/diablock/4972825214244/
 ドラゴンボールZ トランクス,NBDB_015,2023-01-21,105×180×13,40×56×30,110,NA,110,12,2,https://item.rakuten.co.jp/diablock/4972825214237/
 ドラゴンボールZ 孫 悟飯 スーパーサイヤ人,NBDB_014,2023-01-21,105×180×13,36×61×36,120,NA,120,12,3,https://item.rakuten.co.jp/diablock/4972825214220/
-ナノブロックパッド ミニ,NB_053,2023-01-21,105×180×13,80×80×2,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825222560/
-ミニナノ きかんしゃトーマス,NBMC_51,2023-01-21,105×180×13,24×30×32,50,6,300,12,NA,https://item.rakuten.co.jp/diablock/4972825225387/
+ナノブロックパッド ミニ,NB_053,2023-01-21,105×180×13,80×80×2,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825222560/
+ミニナノ きかんしゃトーマス,NBMC_51,2023-01-21,105×180×13,24×30×32,50,6,300,12,None,https://item.rakuten.co.jp/diablock/4972825225387/
 僕のヒーローアカデミア エンデヴァー,NBCC_146,2022-11-19,105×180×30,55×80×30,190,NA,190,12,2,https://item.rakuten.co.jp/diablock/4972825225295/
 僕のヒーローアカデミア ホークス,NBCC_147,2022-11-19,105×180×30,75×75×45,190,NA,190,12,2,https://item.rakuten.co.jp/diablock/4972825225288/
 僕のヒーローアカデミア 轟 焦凍,NBCC_145,2022-11-19,105×180×30,45×55×70,200,NA,200,12,3,https://item.rakuten.co.jp/diablock/4972825225264/
@@ -19,25 +19,25 @@ name,item_number,release_date_japan,package_size_mm,built_up_size_mm,pieces_sing
  パルキア デラックス エディション",NBPM_095,2022-11-19,280×210×45,95×120×205,1050,NA,1050,12,4,https://item.rakuten.co.jp/diablock/4972825225318/
 "ポケットモンスター
  ディアルガ デラックス エディション",NBPM_094,2022-11-19,280×210×45,130×145×195,1020,NA,1020,12,4,https://item.rakuten.co.jp/diablock/4972825225301/
-ミニナノ ゴジラ vol.2,NBMC_49,2022-11-19,105×180×13,30×38×40,50,6,300,12,NA,https://item.rakuten.co.jp/diablock/4972825224137/
-ミニナノ ウルトラマン vol.3 (ウルトラセブン編),NBMC_48,2022-11-19,105×180×13,28×41×64,70,6,420,12,NA,https://item.rakuten.co.jp/diablock/4972825224366/
-ミニナノ サンリオキャラクターズ vol.2 はぴだんぶい,NBMC_47,2022-11-19,105×180×13,36×47×17,60,6,360,12,NA,https://item.rakuten.co.jp/diablock/4972825225202/
-ミニナノ 招福みくじ,NBMC_50,2022-11-19,105×180×13,28×38×24,70,6,420,12,NA,https://item.rakuten.co.jp/diablock/4972825225226/
+ミニナノ ゴジラ vol.2,NBMC_49,2022-11-19,105×180×13,30×38×40,50,6,300,12,None,https://item.rakuten.co.jp/diablock/4972825224137/
+ミニナノ ウルトラマン vol.3 (ウルトラセブン編),NBMC_48,2022-11-19,105×180×13,28×41×64,70,6,420,12,None,https://item.rakuten.co.jp/diablock/4972825224366/
+ミニナノ サンリオキャラクターズ vol.2 はぴだんぶい,NBMC_47,2022-11-19,105×180×13,36×47×17,60,6,360,12,None,https://item.rakuten.co.jp/diablock/4972825225202/
+ミニナノ 招福みくじ,NBMC_50,2022-11-19,105×180×13,28×38×24,70,6,420,12,None,https://item.rakuten.co.jp/diablock/4972825225226/
 干支 卯,NBC_377,2022-11-19,105×180×13,30×58×40,130,NA,130,12,2,https://item.rakuten.co.jp/diablock/4972825224373/
 パリのセーヌ河岸 デラックスエディション,NB_057,2022-11-19,420×210×70,160×350×200,2500,NA,2500,12,4,https://item.rakuten.co.jp/diablock/4972825224427/
 雪だるま,NBC_368,2022-10-22,105×180×13,64×64×40,160,NA,160,12,2,https://item.rakuten.co.jp/diablock/4972825223871/
 クリスマスツリー,NBC_369,2022-10-22,105×180×13,42×84×42,200,NA,200,12,2,https://item.rakuten.co.jp/diablock/4972825223888/
-ミニナノ 星のカービィ vol.2,NBMC_46,2022-08-06,105×180×13,28×42×13,90,6,540,12,NA,https://item.rakuten.co.jp/diablock/4972825224151/
+ミニナノ 星のカービィ vol.2,NBMC_46,2022-08-06,105×180×13,28×42×13,90,6,540,12,None,https://item.rakuten.co.jp/diablock/4972825224151/
 星のカービィ プププランド,NBH_230,2022-08-06,140×140×45,120×84×80,400,NA,400,12,3,NA
 星のカービィ 30th,NBCC_140,2022-08-06,105×180×30,47×70×50,220,NA,220,12,2,https://item.rakuten.co.jp/diablock/4972825224854/
 キン肉マン テリーマン,NBCC_130,2022-08-06,105×180×30,45×74×40,180,NA,180,12,2,https://item.rakuten.co.jp/diablock/4972825224274/
 キン肉マン アシュラマン,NBCC_131,2022-08-06,105×180×30,73×76×45,260,NA,260,12,3,https://item.rakuten.co.jp/diablock/4972825224281/
-ミニナノ 僕のヒーローアカデミアvol.3,NBMC_42,2022-08-06,105×180×13,30×39×22,60,6,360,12,NA,https://item.rakuten.co.jp/diablock/4972825224359/
-ミニナノ ポケットモンスター どくタイプ,NBMC_43,2022-08-06,105×180×13,28×35×28,50,6,300,12,NA,https://item.rakuten.co.jp/diablock/4972825224175/
+ミニナノ 僕のヒーローアカデミアvol.3,NBMC_42,2022-08-06,105×180×13,30×39×22,60,6,360,12,None,https://item.rakuten.co.jp/diablock/4972825224359/
+ミニナノ ポケットモンスター どくタイプ,NBMC_43,2022-08-06,105×180×13,28×35×28,50,6,300,12,None,https://item.rakuten.co.jp/diablock/4972825224175/
 ポケットモンスター メガフシギバナ,NBPM_092,2022-08-06,105×180×35,71×55×60,250,NA,250,12,2,https://item.rakuten.co.jp/diablock/4972825224199/
 ポケットモンスター メガカメックス,NBPM_093,2022-08-06,105×180×35,60×73×75,360,NA,360,12,3,https://item.rakuten.co.jp/diablock/4972825224182/
 スヌーピーハウス,NBH_228,2022-07-23,140×140×45,120×78×80,350,NA,350,12,3,https://item.rakuten.co.jp/diablock/4972825224045/
-ミニナノ ピーナッツ vol.3,NBMC_39,2022-07-23,105×180×13,20×42×28,60,6,360,12,NA,https://item.rakuten.co.jp/diablock/4972825224038/
+ミニナノ ピーナッツ vol.3,NBMC_39,2022-07-23,105×180×13,20×42×28,60,6,360,12,None,https://item.rakuten.co.jp/diablock/4972825224038/
 東京スカイツリー®,NBH_229,2022-07-09,140×210×45,80×265×80,600,NA,600,12,5,https://item.rakuten.co.jp/diablock/4972825223895/
 ダイナソーDX ギガノトサウルス,NBM_034,2022-07-09,280×210×45,320×143×80,1120,NA,1120,12,5,https://item.rakuten.co.jp/diablock/4972825223864/
 ダイナソーDX トリケラトプス,NBM_033,2022-07-09,280×210×45,260×102×72,930,NA,930,12,4,https://item.rakuten.co.jp/diablock/4972825223857/
@@ -47,17 +47,17 @@ name,item_number,release_date_japan,package_size_mm,built_up_size_mm,pieces_sing
 アンキロサウルス,NBC_364,2022-07-09,105×180×13,44×57×105,210,NA,210,12,2,https://item.rakuten.co.jp/diablock/4972825223819/
 ブラキオサウルス,NBC_363,2022-07-09,105×180×13,32×122×110,190,NA,190,12,2,https://item.rakuten.co.jp/diablock/4972825223802/
 ヴェロキラプトル,NBC_362,2022-07-09,105×180×13,54×76×120,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825223796/
-ミニナノ ミッフィー vol.2,NBMC_41,2022-07-09,105×180×13,28×51×12,60,6,360,12,NA,https://item.rakuten.co.jp/diablock/4972825224021/
-ミニナノ ドラゴンボールZ vol.2,NBMC_40,2022-07-09,105×180×13,28×54×24,80,6,480,12,NA,https://item.rakuten.co.jp/diablock/4972825223901/
-ミニナノ I’m Doraemonドラえもん vol.2,NBMC_38,2022-07-09,105×180×13,28×36×24,90,6,540,12,NA,https://item.rakuten.co.jp/diablock/4972825224014/
+ミニナノ ミッフィー vol.2,NBMC_41,2022-07-09,105×180×13,28×51×12,60,6,360,12,None,https://item.rakuten.co.jp/diablock/4972825224021/
+ミニナノ ドラゴンボールZ vol.2,NBMC_40,2022-07-09,105×180×13,28×54×24,80,6,480,12,None,https://item.rakuten.co.jp/diablock/4972825223901/
+ミニナノ I’m Doraemonドラえもん vol.2,NBMC_38,2022-07-09,105×180×13,28×36×24,90,6,540,12,None,https://item.rakuten.co.jp/diablock/4972825224014/
 ポケットモンスター スイクン,NBPM_091,2022-04-23,105×180×35,48×74×112,220,NA,220,12,3,https://item.rakuten.co.jp/diablock/4972825221679/
 ポケットモンスター エンテイ,NBPM_090,2022-04-23,105×180×35,68×59×100,240,NA,240,12,3,https://item.rakuten.co.jp/diablock/4972825221662/
 ポケットモンスター ライコウ,NBPM_089,2022-04-23,105×180×35,36×53×100,250,NA,250,12,3,https://item.rakuten.co.jp/diablock/4972825221655/
-ミニナノ リラックマ vol.2,NBMC_36,2022-04-23,105×180×13,28×35×22,70,6,420,12,NA,https://item.rakuten.co.jp/diablock/4972825223765/
-ミニナノ クレヨンしんちゃん vol.3,NBMC_35,2022-04-23,105×180×13,32×38×24,70,6,420,12,NA,https://item.rakuten.co.jp/diablock/4972825223741/
-ミニナノ SPY×FAMILY,NBMC_37,2022-04-15,105×180×13,32×38×20,69,6,414,12,NA,https://item.rakuten.co.jp/diablock/4972825223109/
-ミニナノ 名探偵コナン vol.3,NBMC_34,2022-03-12,105×180×13,32×38×28,70,6,420,12,NA,https://item.rakuten.co.jp/diablock/4972825223123/
-ミニナノ とっとこハム太郎,NBMC_33,2022-01-22,105×180×13,28×26×36,60,6,360,12,NA,https://item.rakuten.co.jp/diablock/4972825223055/
+ミニナノ リラックマ vol.2,NBMC_36,2022-04-23,105×180×13,28×35×22,70,6,420,12,None,https://item.rakuten.co.jp/diablock/4972825223765/
+ミニナノ クレヨンしんちゃん vol.3,NBMC_35,2022-04-23,105×180×13,32×38×24,70,6,420,12,None,https://item.rakuten.co.jp/diablock/4972825223741/
+ミニナノ SPY×FAMILY,NBMC_37,2022-04-15,105×180×13,32×38×20,69,6,414,12,None,https://item.rakuten.co.jp/diablock/4972825223109/
+ミニナノ 名探偵コナン vol.3,NBMC_34,2022-03-12,105×180×13,32×38×28,70,6,420,12,None,https://item.rakuten.co.jp/diablock/4972825223123/
+ミニナノ とっとこハム太郎,NBMC_33,2022-01-22,105×180×13,28×26×36,60,6,360,12,None,https://item.rakuten.co.jp/diablock/4972825223055/
 ポケットモンスター ポッチャマ ブリリアントシャイニングver.,NBPM_088,2022-01-22,105×180×13,52×57×48,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825223130/
 ポケットモンスター ヒコザル ブリリアントシャイニングver.,NBPM_087,2022-01-22,105×180×13,48×65×48,150,NA,150,12,2,https://item.rakuten.co.jp/diablock/4972825223147/
 ポケットモンスター ナエトル ブリリアントシャイニングver.,NBPM_086,2022-01-22,105×180×13,36×47×56,130,NA,130,12,2,https://item.rakuten.co.jp/diablock/4972825223154/
@@ -65,7 +65,7 @@ name,item_number,release_date_japan,package_size_mm,built_up_size_mm,pieces_sing
 ポケットモンスター グレイシア ブリリアントシャイニングver.,NBPM_084,2022-01-22,105×180×13,44×50×60,160,NA,160,12,2,https://item.rakuten.co.jp/diablock/4972825223161/
 ポケットモンスター リーフィア ブリリアントシャイニングver.,NBPM_083,2022-01-22,105×180×13,44×50×60,140,NA,140,12,2,https://item.rakuten.co.jp/diablock/4972825223178/
 ポケットモンスター ルカリオ ブリリアントシャイニングver.,NBPM_082,2022-01-22,105×180×13,56×73×64,160,NA,160,12,3,https://item.rakuten.co.jp/diablock/4972825223185/
-ミニナノ ドラゴンボールZ,NBMC_24,2022-01-22,105×180×13,31×51×20,70,6,420,12,NA,https://item.rakuten.co.jp/diablock/4972825221921/
+ミニナノ ドラゴンボールZ,NBMC_24,2022-01-22,105×180×13,31×51×20,70,6,420,12,None,https://item.rakuten.co.jp/diablock/4972825221921/
 ドラゴンボールZ フリーザ,NBDB_009,2022-01-22,105×180×13,32×60×28,110,NA,110,12,3,https://item.rakuten.co.jp/diablock/4972825213483/
 ドラゴンボールZ 孫悟空 スーパーサイヤ人,NBDB_007,2022-01-22,105×180×13,35×72×30,130,NA,130,12,3,https://item.rakuten.co.jp/diablock/4972825213469/
 ドラゴンボールZ ベジータ,NBDB_004,2022-01-22,105×180×13,36×58×24,130,NA,130,12,3,https://item.rakuten.co.jp/diablock/4972825212028/
@@ -79,9 +79,9 @@ name,item_number,release_date_japan,package_size_mm,built_up_size_mm,pieces_sing
 盆栽 松,NBH_224,2021-11-27,140×140×45,110×113×44,280,NA,280,12,2,https://item.rakuten.co.jp/diablock/4972825221723/
 干支 十二支セット,NB_055,2021-11-27,420×210×70,43×58×84,2020,NA,2020,12,3,NA
 リザードン DX,NBPM_080,2021-11-27,280×210×45,190×140×190,860,NA,860,12,4,https://item.rakuten.co.jp/diablock/4972825223062/
-ミニナノ　キン肉マン vol.2,NBMC_32,2021-11-27,105×180×13,32×44×20,80,6,480,12,NA,https://item.rakuten.co.jp/diablock/4972825223031/
-ミニナノ　ポケットモンスター ひこうタイプ,NBMC_31,2021-11-27,105×180×13,20×29×32,40,6,240,12,NA,https://item.rakuten.co.jp/diablock/4972825222997/
-ミニナノ　ちびまる子ちゃん vol.2,NBMC_30,2021-11-27,105×180×13,30×50×20,80,6,480,12,NA,https://item.rakuten.co.jp/diablock/4972825223017/
+ミニナノ　キン肉マン vol.2,NBMC_32,2021-11-27,105×180×13,32×44×20,80,6,480,12,None,https://item.rakuten.co.jp/diablock/4972825223031/
+ミニナノ　ポケットモンスター ひこうタイプ,NBMC_31,2021-11-27,105×180×13,20×29×32,40,6,240,12,None,https://item.rakuten.co.jp/diablock/4972825222997/
+ミニナノ　ちびまる子ちゃん vol.2,NBMC_30,2021-11-27,105×180×13,30×50×20,80,6,480,12,None,https://item.rakuten.co.jp/diablock/4972825223017/
 クリスマスリース,NBH_220,2021-10-16,140×210×45,140×135×45,580,NA,580,12,3,https://item.rakuten.co.jp/diablock/4972825221594/
 厳島神社大鳥居,NBH_222,2021-09-25,140×140×45,80×65×160,470,NA,470,12,3,https://item.rakuten.co.jp/diablock/4972825221624/
 ドラゴン,NBM_032,2021-09-25,280×210×45,170×120×170,960,NA,960,12,4,https://item.rakuten.co.jp/diablock/4972825221648/
@@ -91,7 +91,7 @@ name,item_number,release_date_japan,package_size_mm,built_up_size_mm,pieces_sing
 ポケットモンスター ポッチャマ,NBPM_079,2021-09-25,105×180×13,52×57×48,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825222683/
 ポケットモンスター ヒコザル,NBPM_078,2021-09-25,105×180×13,48×65×48,150,NA,150,12,2,https://item.rakuten.co.jp/diablock/4972825222676/
 ポケットモンスター ナエトル,NBPM_077,2021-09-25,105×180×13,36×47×56,130,NA,130,12,2,https://item.rakuten.co.jp/diablock/4972825222669/
-ミニナノ　星のカービィ,NBMC_29,2021-09-25,105×180×13,36×30×20,80,6,480,12,NA,https://item.rakuten.co.jp/diablock/4972825222706/
+ミニナノ　星のカービィ,NBMC_29,2021-09-25,105×180×13,36×30×20,80,6,480,12,None,https://item.rakuten.co.jp/diablock/4972825222706/
 アワードセレクション 和服女子,NBC_358,2021-09-01,105×180×20,52×80×20,90,NA,90,12,2,https://item.rakuten.co.jp/diablock/4972825222874/
 Honda スーパーカブ 50 (グリーン),NBC_357,2021-09-01,105×180×13,43×58×84,200,NA,200,12,2,https://item.rakuten.co.jp/diablock/4972825222812/
 Honda スーパーカブ 50 (ブルー),NBC_356,2021-09-01,105×180×13,43×58×84,200,NA,200,12,2,https://item.rakuten.co.jp/diablock/4972825222805/
@@ -100,10 +100,10 @@ Honda スーパーカブ 50 (ブルー),NBC_356,2021-09-01,105×180×13,43×58×
 カジキ,NBC_352,2021-08-07,105×180×13,61×140×70,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825221570/
 シャチ,NBC_333,2021-08-07,105×180×13,50×50×107,140,NA,140,12,2,https://item.rakuten.co.jp/diablock/4972825219973/
 ホホジロザメ,NBC_332,2021-08-07,105×180×13,48×60×120,190,NA,190,12,2,https://item.rakuten.co.jp/diablock/4972825219980/
-ミニナノ ピーナッツ vol.2,NBMC_26,2021-08-07,105×180×13,32×41×20,69,NA,69,12,NA,https://item.rakuten.co.jp/diablock/4972825221945/
-ミニナノ ポケットモンスター ドラゴンタイプ,NBMC_25,2021-08-07,105×180×13,25×40×40,65,NA,65,12,NA,https://item.rakuten.co.jp/diablock/4972825221952/
-ミニナノ PUI PUI モルカー,NBMC_28,2021-07-23,105×180×13,30×23×32,60,6,360,12,NA,https://item.rakuten.co.jp/diablock/4972825222898/
-ミニナノ ミッフィー,NBMC_27,2021-07-11,105×180×13,28×50×12,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825221938/
+ミニナノ ピーナッツ vol.2,NBMC_26,2021-08-07,105×180×13,32×41×20,69,NA,69,12,None,https://item.rakuten.co.jp/diablock/4972825221945/
+ミニナノ ポケットモンスター ドラゴンタイプ,NBMC_25,2021-08-07,105×180×13,25×40×40,65,NA,65,12,None,https://item.rakuten.co.jp/diablock/4972825221952/
+ミニナノ PUI PUI モルカー,NBMC_28,2021-07-23,105×180×13,30×23×32,60,6,360,12,None,https://item.rakuten.co.jp/diablock/4972825222898/
+ミニナノ ミッフィー,NBMC_27,2021-07-11,105×180×13,28×50×12,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825221938/
 モササウルス,NBC_349,2021-07-03,105×180×13,60×45×150,180,NA,180,12,2,https://item.rakuten.co.jp/diablock/4972825221501/
 ドラムセット グリーン,NBC_348,2021-07-03,105×180×13,100×50×60,190,NA,190,12,2,https://item.rakuten.co.jp/diablock/4972825221402/
 エレキギター イエロー,NBC_347,2021-07-03,105×180×13,40×130×25,160,NA,160,12,1,https://item.rakuten.co.jp/diablock/4972825221396/
@@ -119,8 +119,8 @@ PAC-MAN アーケード筐体,NBCC_107,2021-07-03,105×180×20,32×62×36,160,NA
 PAC-MAN ブリンキー&インキー,NBCC_106,2021-07-03,105×180×20,36×35×20,180,NA,180,12,2,https://item.rakuten.co.jp/diablock/4972825222089/
 PAC-MAN パックマン＆チェリー,NBCC_105,2021-07-03,105×180×20,32×38×32,150,NA,150,12,1,https://item.rakuten.co.jp/diablock/4972825222072/
 キャラナノ マジンガーZ,CN_36,2021-07-03,105×140×70,64×90×45,370,NA,370,12,3,https://item.rakuten.co.jp/diablock/4972825221211/
-ミニナノ 僕のヒーローアカデミア vol.2,NBMC_23,2021-07-03,105×180×13,30×35×25,60,NA,60,12,NA,https://item.rakuten.co.jp/diablock/4972825221907/
-ミニナノ ウルトラマン vol.2,NBMC_22,2021-07-03,105×180×13,25×48×42,70,NA,70,12,NA,https://item.rakuten.co.jp/diablock/4972825221914/
+ミニナノ 僕のヒーローアカデミア vol.2,NBMC_23,2021-07-03,105×180×13,30×35×25,60,NA,60,12,None,https://item.rakuten.co.jp/diablock/4972825221907/
+ミニナノ ウルトラマン vol.2,NBMC_22,2021-07-03,105×180×13,25×48×42,70,NA,70,12,None,https://item.rakuten.co.jp/diablock/4972825221914/
 トランペット,NBC_338,2021-04-17,105×180×13,24×39×78,110,NA,110,12,2,https://item.rakuten.co.jp/diablock/4972825220399/
 ヴァイオリン,NBC_337,2021-04-17,105×180×13,40×101×16,190,NA,190,12,1,https://item.rakuten.co.jp/diablock/4972825220382/
 グランドピアノ,NBC_336,2021-04-17,105×180×13,NA,190,NA,190,12,2,https://item.rakuten.co.jp/diablock/4972825220375/
@@ -128,25 +128,25 @@ PAC-MAN パックマン＆チェリー,NBCC_105,2021-07-03,105×180×20,32×38×
 サグラダファミリア,NBH_211,2021-04-17,140×140×45,80×96×80,740,NA,740,12,3,https://item.rakuten.co.jp/diablock/4972825220443/
 ポケットモンスター ダクマ,NBPM_076,2021-04-17,105×180×20,34×58×64,160,NA,160,12,2,https://item.rakuten.co.jp/diablock/4972825220467/
 ポケットモンスター ガブリアス,NBPM_075,2021-04-17,105×180×13,52×62×60,210,NA,210,12,2,https://item.rakuten.co.jp/diablock/4972825220474/
-ミニナノ ポケットモンスター くさタイプ,NBMC_21,2021-04-17,105×180×13,34×58×64,65,NA,65,12,NA,https://item.rakuten.co.jp/diablock/4972825220320/
-ミニナノ クレヨンしんちゃん vol.2,NBMC_20,2021-04-17,105×180×13,32×40×23,70,NA,70,12,NA,https://item.rakuten.co.jp/diablock/4972825220368/
+ミニナノ ポケットモンスター くさタイプ,NBMC_21,2021-04-17,105×180×13,34×58×64,65,NA,65,12,None,https://item.rakuten.co.jp/diablock/4972825220320/
+ミニナノ クレヨンしんちゃん vol.2,NBMC_20,2021-04-17,105×180×13,32×40×23,70,NA,70,12,None,https://item.rakuten.co.jp/diablock/4972825220368/
 ポケットモンスター ニンフィア,NBPM_073,2021-01-23,105×180×13,52×62×60,170,NA,170,12,3,https://item.rakuten.co.jp/diablock/4972825220078/
 ポケットモンスター グレイシア,NBPM_072,2021-01-23,105×180×13,44×50×60,160,NA,160,12,2,https://item.rakuten.co.jp/diablock/4972825220054/
 ポケットモンスター リーフィア,NBPM_071,2021-01-23,105×180×13,44×50×60,140,NA,140,12,2,https://item.rakuten.co.jp/diablock/4972825220061/
 江戸川 コナン（スケボーver.),CN_32,2021-01-23,105×140×70,64×118×60,320,NA,320,12,4,https://item.rakuten.co.jp/diablock/4972825220139/
-ミニナノ 名探偵コナン02,NBMC_18,2021-01-23,105×180×13,42×46×28,80,NA,80,12,NA,https://item.rakuten.co.jp/diablock/4972825219942/
-ミニナノ リラックマ,NBMC_17,2021-01-23,105×180×13,20×50×28,60,NA,60,12,NA,https://item.rakuten.co.jp/diablock/4972825219966/
-ミニナノ ポケットモンスター みずタイプ,NBMC_16,2021-01-23,105×180×13,20×38×40,70,NA,70,12,NA,https://item.rakuten.co.jp/diablock/4972825219928/
-ミニナノ エヴァンゲリオン vol2,NBMC_19,2021-01-01,105×180×13,35×55×27,75,NA,75,12,NA,https://item.rakuten.co.jp/diablock/4972825220344/
+ミニナノ 名探偵コナン02,NBMC_18,2021-01-23,105×180×13,42×46×28,80,NA,80,12,None,https://item.rakuten.co.jp/diablock/4972825219942/
+ミニナノ リラックマ,NBMC_17,2021-01-23,105×180×13,20×50×28,60,NA,60,12,None,https://item.rakuten.co.jp/diablock/4972825219966/
+ミニナノ ポケットモンスター みずタイプ,NBMC_16,2021-01-23,105×180×13,20×38×40,70,NA,70,12,None,https://item.rakuten.co.jp/diablock/4972825219928/
+ミニナノ エヴァンゲリオン vol2,NBMC_19,2021-01-01,105×180×13,35×55×27,75,NA,75,12,None,https://item.rakuten.co.jp/diablock/4972825220344/
 海賊船 デラックスエディション,NB_050,2020-12-05,420×210×70,320×235×110,3280,NA,3280,12,5,https://item.rakuten.co.jp/diablock/4972825220047/
 名古屋城,NBH_207,2020-11-21,140×140×45,80×95×80,550,NA,550,12,3,https://item.rakuten.co.jp/diablock/4972825219409/
 ノートルダム大聖堂,NBH_205,2020-11-21,140×210×45,80×92×160,1040,NA,1040,12,4,https://item.rakuten.co.jp/diablock/4972825219416/
 ポケットモンスター レックウザ エクストリームDX,NBPM_074,2020-11-21,410×270×70,220×210×200,1790,NA,1790,12,5,https://item.rakuten.co.jp/diablock/4972825220481/
 ポケットモンスター ゲッコウガ,NBPM_070,2020-11-21,105×180×13,80×58×48,180,NA,180,12,3,https://item.rakuten.co.jp/diablock/4972825219430/
 ポケットモンスター ワンパチ,NBPM_069,2020-11-21,105×180×30,34×58×64,190,NA,190,12,2,https://item.rakuten.co.jp/diablock/4972825219423/
-ミニナノ 縁起物 2021,NBMC_15,2020-11-21,105×180×13,48×38×17,50,NA,50,12,NA,https://item.rakuten.co.jp/diablock/4972825219294/
-ミニナノ ポケットモンスター ノーマルタイプ,NBMC_14,2020-11-21,105×180×13,28×33×44,60,NA,60,12,NA,https://item.rakuten.co.jp/diablock/4972825219331/
-ミニナノ キン肉マン,NBMC_13,2020-11-21,105×180×13,20×50×28,70,NA,70,12,NA,https://item.rakuten.co.jp/diablock/4972825219317/
+ミニナノ 縁起物 2021,NBMC_15,2020-11-21,105×180×13,48×38×17,50,NA,50,12,None,https://item.rakuten.co.jp/diablock/4972825219294/
+ミニナノ ポケットモンスター ノーマルタイプ,NBMC_14,2020-11-21,105×180×13,28×33×44,60,NA,60,12,None,https://item.rakuten.co.jp/diablock/4972825219331/
+ミニナノ キン肉マン,NBMC_13,2020-11-21,105×180×13,20×50×28,70,NA,70,12,None,https://item.rakuten.co.jp/diablock/4972825219317/
 ジャイアントパンダ,NBC_328,2020-09-12,105×180×13,48×56×52,220,NA,220,12,2,https://item.rakuten.co.jp/diablock/4972825219126/
 キリン,NBC_327,2020-09-12,105×180×13,24×116×100,220,NA,220,12,2,https://item.rakuten.co.jp/diablock/4972825219102/
 ライオン,NBC_326,2020-09-12,105×180×13,32×53×92,200,NA,200,12,2,https://item.rakuten.co.jp/diablock/4972825219119/
@@ -154,10 +154,10 @@ PAC-MAN パックマン＆チェリー,NBCC_105,2021-07-03,105×180×20,32×38×
 ポケットモンスター ルカリオ,NBPM_068,2020-09-12,105×180×13,56×73×64,160,NA,160,12,3,https://item.rakuten.co.jp/diablock/4972825219188/
 ポケットモンスター ポニータ(ガラルのすがた),NBPM_067,2020-09-12,105×180×30,36×65×72,200,NA,200,12,3,https://item.rakuten.co.jp/diablock/4972825219171/
 キャラナノ 怪盗キッド,CN_29,2020-09-12,105×140×70,56×89×64,280,NA,280,12,3,https://item.rakuten.co.jp/diablock/4972825219164/
-ミニナノ ポケットモンスター ほのおタイプ,NBMC_11,2020-09-12,105×180×13,16×33×40,47,NA,47,12,NA,https://item.rakuten.co.jp/diablock/4972825219096/
-ミニナノ ゴジラ,NBMC_12,2020-09-01,105×180×13,30×51×53,71,NA,71,12,NA,https://item.rakuten.co.jp/diablock/4972825219072/
-ミニナノ ちびまる子ちゃん,NBMC_10,2020-08-01,105×180×13,28×45×20,80,NA,80,12,NA,https://item.rakuten.co.jp/diablock/4972825218532/
-ミニナノ 僕のヒーローアカデミア,NBMC_09,2020-08-01,105×180×13,32×38×24,60,NA,60,12,NA,https://item.rakuten.co.jp/diablock/4972825218556/
+ミニナノ ポケットモンスター ほのおタイプ,NBMC_11,2020-09-12,105×180×13,16×33×40,47,NA,47,12,None,https://item.rakuten.co.jp/diablock/4972825219096/
+ミニナノ ゴジラ,NBMC_12,2020-09-01,105×180×13,30×51×53,71,NA,71,12,None,https://item.rakuten.co.jp/diablock/4972825219072/
+ミニナノ ちびまる子ちゃん,NBMC_10,2020-08-01,105×180×13,28×45×20,80,NA,80,12,None,https://item.rakuten.co.jp/diablock/4972825218532/
+ミニナノ 僕のヒーローアカデミア,NBMC_09,2020-08-01,105×180×13,32×38×24,60,NA,60,12,None,https://item.rakuten.co.jp/diablock/4972825218556/
 スピノサウルス,NBC_322,2020-08-01,105×180×13,28×53×152,180,NA,180,12,2,https://item.rakuten.co.jp/diablock/4972825218587/
 トリケラトプス,NBC_321,2020-08-01,105×180×13,32×42×104,160,NA,160,12,2,https://item.rakuten.co.jp/diablock/4972825218570/
 ティラノサウルス,NBC_320,2020-08-01,105×180×13,44×71×140,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825218563/
@@ -165,12 +165,12 @@ PAC-MAN パックマン＆チェリー,NBCC_105,2021-07-03,105×180×20,32×38×
 ポケットモンスター カモネギ(ガラルのすがた),NBPM_066,2020-08-01,105×180×30,44×59×80,190,NA,190,12,2,https://item.rakuten.co.jp/diablock/4972825218624/
 ポケットモンスター ヤドン,NBPM_065,2020-08-01,105×180×30,40×26×96,140,NA,140,12,2,https://item.rakuten.co.jp/diablock/4972825218631/
 明智光秀どーもくん,CN_26,2020-08-01,105×140×70,56×85×55,320,NA,320,12,3,https://item.rakuten.co.jp/diablock/4972825218709/
-ミニナノ ピーナッツ,NBMC_07,2020-07-18,105×180×13,20×42×28,57,6,342,12,NA,https://item.rakuten.co.jp/diablock/4972825216484/
-ミニナノ ポケットモンスター でんきタイプ,NBMC_08,2020-06-01,105×180×13,28×36×32,54,NA,54,12,NA,https://item.rakuten.co.jp/diablock/4972825218211/
+ミニナノ ピーナッツ,NBMC_07,2020-07-18,105×180×13,20×42×28,57,6,342,12,None,https://item.rakuten.co.jp/diablock/4972825216484/
+ミニナノ ポケットモンスター でんきタイプ,NBMC_08,2020-06-01,105×180×13,28×36×32,54,NA,54,12,None,https://item.rakuten.co.jp/diablock/4972825218211/
 大阪城 デラックスエディション,NB_049,2020-06-01,420×210×70,200×190×160,2430,NA,2430,12,5,https://item.rakuten.co.jp/diablock/4972825217023/
 キャラナノ ウルトラマンベリアル,CN_28,2020-06-01,105×140×70,44×88×54,280,NA,280,12,3,https://item.rakuten.co.jp/diablock/4972825217054/
 キャラナノ ウルトラセブン,CN_27,2020-06-01,105×140×70,44×88×54,240,NA,240,12,3,https://item.rakuten.co.jp/diablock/4972825217047/
-ミニナノ クレヨンしんちゃん,NBMC_06,2020-04-01,105×180×13,41×32×24,70,NA,70,12,NA,https://item.rakuten.co.jp/diablock/4972825216828/
+ミニナノ クレヨンしんちゃん,NBMC_06,2020-04-01,105×180×13,41×32×24,70,NA,70,12,None,https://item.rakuten.co.jp/diablock/4972825216828/
 プレーリードッグ,NBC_309,2020-04-01,105×180×13,22×50×40,160,NA,160,12,2,https://item.rakuten.co.jp/diablock/4972825216712/
 サイ,NBC_308,2020-04-01,105×180×13,33×42×92,190,NA,190,12,3,https://item.rakuten.co.jp/diablock/4972825216699/
 チーター,NBC_307,2020-04-01,105×180×13,28×50×80,200,NA,200,12,2,https://item.rakuten.co.jp/diablock/4972825216682/
@@ -181,17 +181,17 @@ PAC-MAN パックマン＆チェリー,NBCC_105,2021-07-03,105×180×20,32×38×
 キャラナノ コリラックマ,CN_24,2020-04-01,105×140×70,52×74×40,260,NA,260,12,2,https://item.rakuten.co.jp/diablock/4972825216880/
 キャラナノ リラックマ,CN_23,2020-04-01,105×140×70,52×77×40,270,NA,270,12,2,https://item.rakuten.co.jp/diablock/4972825216873/
 キャラナノ エヴァンゲリオン 2号機,CN_22,2020-04-01,105×140×70,70×108×48,300,NA,300,12,3,https://item.rakuten.co.jp/diablock/4972825216866/
-ナノブロック®専用接着剤　使い切りミニタイプ　2本入り,NB_044,2020-01-25,70×180×15,NA,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825214558/
+ナノブロック®専用接着剤　使い切りミニタイプ　2本入り,NB_044,2020-01-25,70×180×15,NA,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825214558/
 鯉のぼり,NBH_209,2020-01-23,140×140×45,80×140×40,390,NA,390,12,3,NA
 雛人形,NBH_208,2020-01-23,140×140×45,80×65×80,440,NA,440,12,2,NA
-ミニナノ　名探偵コナン,NBMC_03,2020-01-18,105×180×13,36×38×28,80,6,480,12,NA,https://item.rakuten.co.jp/diablock/4972825216460/
+ミニナノ　名探偵コナン,NBMC_03,2020-01-18,105×180×13,36×38×28,80,6,480,12,None,https://item.rakuten.co.jp/diablock/4972825216460/
 ノイシュバンシュタイン城,NBH_198,2020-01-18,140×140×45,80×92×80,500,NA,500,12,3,https://item.rakuten.co.jp/diablock/4972825216415/
 姫路城,NBH_197,2020-01-18,140×140×45,80×92×80,490,NA,490,12,3,https://item.rakuten.co.jp/diablock/4972825216422/
 キャラナノ 赤井 秀一,CN_20,2020-01-18,105×140×70,56×85×75,240,NA,240,12,2,https://item.rakuten.co.jp/diablock/4972825216521/
 キャラナノ 江戸川 コナン,CN_19,2020-01-18,105×140×70,56×63×56,240,NA,240,12,3,https://item.rakuten.co.jp/diablock/4972825216514/
-ミニナノ　ウルトラマン,NBMC_05,2020-01-01,105×180×13,28×50×24,77,6,462,12,NA,https://item.rakuten.co.jp/diablock/4972825216842/
-ミニナノ サンリオキャラクターズ,NBMC_04,2020-01-01,105×180×13,36×38×12,70,6,420,12,NA,https://item.rakuten.co.jp/diablock/4972825216507/
-ミニナノ　エヴァンゲリオン,NBMC_02,2020-01-01,105×180×13,36×45×28,79,6,474,12,NA,https://item.rakuten.co.jp/diablock/4972825216446/
+ミニナノ　ウルトラマン,NBMC_05,2020-01-01,105×180×13,28×50×24,77,6,462,12,None,https://item.rakuten.co.jp/diablock/4972825216842/
+ミニナノ サンリオキャラクターズ,NBMC_04,2020-01-01,105×180×13,36×38×12,70,6,420,12,None,https://item.rakuten.co.jp/diablock/4972825216507/
+ミニナノ　エヴァンゲリオン,NBMC_02,2020-01-01,105×180×13,36×45×28,79,6,474,12,None,https://item.rakuten.co.jp/diablock/4972825216446/
 ロリポップキャンディ,NBC_306,2020-01-01,105×180×13,32×62×12,150,NA,150,12,1,https://item.rakuten.co.jp/diablock/4972825216408/
 フライドポテト,NBC_305,2020-01-01,105×180×13,37×61×20,120,NA,120,12,2,https://item.rakuten.co.jp/diablock/4972825216392/
 ワイン,NBC_304,2020-01-01,105×180×13,16×77×16,160,NA,160,12,2,https://item.rakuten.co.jp/diablock/4972825216385/
@@ -216,7 +216,7 @@ E233系 湘南新宿ライン　,nGT_023,2019-07-01,140×180×20,24×32×80,180,
 ホッキョクグマ,NBC_294,2019-07-01,105×180×13,35×38×77,160,NA,160,12,3,https://item.rakuten.co.jp/diablock/4972825214572/
 アニマルDX ホホジロザメ,NBM_027,2019-07-01,280×210×45,130×100×300,680,NA,680,12,4,https://item.rakuten.co.jp/diablock/4972825214602/
 雷門 デラックスエディション,NB_046,2019-07-01,420×210×70,240×134×160,2740,NA,2740,12,5,https://item.rakuten.co.jp/diablock/4972825215227/
-ドラえもん ミニ,NBMC_01,2019-07-01,105×180×13,33×42×31,100,6,600,12,NA,https://item.rakuten.co.jp/diablock/4972825215081/
+ドラえもん ミニ,NBMC_01,2019-07-01,105×180×13,33×42×31,100,6,600,12,None,https://item.rakuten.co.jp/diablock/4972825215081/
 チョコレート,NBC_290,2019-06-22,105×180×13,64×9×40,130,NA,130,12,2,https://item.rakuten.co.jp/diablock/4972825214435/
 東京駅丸の内駅舎,NBH_189,2019-06-22,140×210×45,200×53×80,640,NA,640,12,3,https://item.rakuten.co.jp/diablock/4972825215241/
 龍,NBM_026,2019-06-22,280×210×45,130×200×120,700,NA,700,12,4,https://item.rakuten.co.jp/diablock/4972825215234/
@@ -256,12 +256,12 @@ E233系京浜東北線,nGT_022,2018-07-01,140×180×30,32×24×80,180,NA,180,12,
 923形新幹線電気軌道総合試験車ドクターイエロー,nGT_018,2018-04-14,140×180×20,32×24×96,150,NA,150,12,2,https://item.rakuten.co.jp/diablock/4972825209233/
 E5系新幹線はやぶさ,nGT_017,2018-04-14,140×180×20,27×24×108,140,NA,140,12,2,https://item.rakuten.co.jp/diablock/4972825209226/
 光ファイバーLED + マーライオン,NBH_158,2018-03-17,140×210×45,100×80×80,300,NA,300,12,3,https://item.rakuten.co.jp/diablock/4972825208502/
-コレクションケース,NB_038,2018-03-03,140×140×45,84×95×84,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825208533/
+コレクションケース,NB_038,2018-03-03,140×140×45,84×95×84,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825208533/
 ビール,NBC_245,2018-01-20,105×180×13,53×44×36,180,NA,180,12,2,https://item.rakuten.co.jp/diablock/4972825208465/
 ポケットモンスター ホウオウ,NBPM_033,2018-01-20,105×180×35,74×84×92,180,NA,180,12,4,https://item.rakuten.co.jp/diablock/4972825208526/
 ポケットモンスター ルギア,NBPM_032,2018-01-20,105×180×35,68×84×92,190,NA,190,12,3,https://item.rakuten.co.jp/diablock/4972825208519/
-ブロック収納ケース,NB_035,2017-12-02,380×310×59,310×380×59,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825208052/
-ベーシックレールセット,nGS_004,2017-09-30,247×147×143,778×34×460,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825205167/
+ブロック収納ケース,NB_035,2017-12-02,380×310×59,310×380×59,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825208052/
+ベーシックレールセット,nGS_004,2017-09-30,247×147×143,778×34×460,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825205167/
 E259系 成田エクスプレス,nGT_016,2017-09-23,140×180×20,32×24×82,170,NA,170,12,3,https://item.rakuten.co.jp/diablock/4972825204818/
 E235系 山手線,nGT_015,2017-09-23,140×180×20,32×24×82,180,NA,180,12,2,https://item.rakuten.co.jp/diablock/4972825204801/
 E231系 山手線,nGT_014,2017-09-23,140×180×20,32×24×80,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825204795/
@@ -286,7 +286,7 @@ N700系新幹線,nGT_011,2017-09-23,140×180×20,32×24×96,170,NA,170,12,2,http
 ドラえもん,NBCC_036,2017-04-29,90×140×45,48×68×48,270,NA,270,12,3,https://item.rakuten.co.jp/diablock/4972825206188/
 バースデーケーキ,NBC_219,2017-04-08,105×180×13,48×44×48,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825205051/
 ハンバーガー,NBC_217,2017-04-08,105×180×13,48×38×40,120,NA,120,12,2,https://item.rakuten.co.jp/diablock/4972825205037/
-ディスプレーアーム,NB_027,2016-10-07,140×140×45,40×130×70,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825202845/
+ディスプレーアーム,NB_027,2016-10-07,140×140×45,40×130×70,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825202845/
 盆栽 梅,NBH_134,2016-10-07,140×140×45,80×128×40,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825202968/
 帆船,NB_030,2016-10-07,420×210×70,230×130×320,2500,NA,2500,12,5,https://item.rakuten.co.jp/diablock/4972825202999/
 ポケットモンスター ブースター,NBPM_022,2016-10-07,105×180×13,52×51×68,170,NA,170,12,2,https://item.rakuten.co.jp/diablock/4972825204351/
@@ -296,7 +296,7 @@ N700系新幹線,nGT_011,2017-09-23,140×180×20,32×24×96,170,NA,170,12,2,http
 サグラダファミリア デラックス エディション,NB_028,2016-08-05,420×210×70,191×160×160,2660,NA,2660,12,5,https://item.rakuten.co.jp/diablock/4972825203965/
 宇宙飛行士,NBC_198,2016-08-01,105×180×13,68×40×39,118,NA,118,12,3,https://item.rakuten.co.jp/diablock/4972825202760/
 レッサーパンダ,NBC_194,2016-08-01,105×180×13,50×27×88,128,NA,128,12,2,https://item.rakuten.co.jp/diablock/4972825202722/
-LEDプレートUSB,NB_026,2016-06-24,140×140×45,80×21×80,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825202685/
+LEDプレートUSB,NB_026,2016-06-24,140×140×45,80×21×80,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825202685/
 ポケットモンスター カメックス,NBPM_019,2016-06-24,105×180×13,55×56×64,220,NA,220,12,3,https://item.rakuten.co.jp/diablock/4972825203835/
 ポケットモンスター フシギバナ,NBPM_018,2016-06-24,105×180×13,36×56×60,160,NA,160,12,2,https://item.rakuten.co.jp/diablock/4972825203828/
 雷門,NBH_115,2016-04-22,140×140×45,67×80×80,390,NA,390,12,3,https://item.rakuten.co.jp/diablock/4972825202487/
@@ -316,11 +316,11 @@ LEDプレートUSB,NB_026,2016-06-24,140×140×45,80×21×80,NA,NA,NA,12,NA,http
 ポケットモンスター ゲンガー,NBPM_007,2014-06-28,105×180×13,52×52×48,150,NA,150,12,2,https://item.rakuten.co.jp/diablock/4972825146804/
 ポケットモンスター ミュウツー,NBPM_006,2014-06-28,105×180×13,61×52×52,130,NA,130,12,3,https://item.rakuten.co.jp/diablock/4972825146811/
 ポケットモンスター イーブイ,NBPM_005,2014-06-28,105×180×13,55×44×64,130,NA,130,12,2,https://item.rakuten.co.jp/diablock/4972825146231/
-ナノブロックパッド,NB_020,2014-03-28,105×180×17,142×10×190,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825146828/
+ナノブロックパッド,NB_020,2014-03-28,105×180×17,142×10×190,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825146828/
 ポケットモンスター ゼニガメ,NBPM_004,2013-10-25,105×180×13,45×35×47,120,NA,120,12,2,https://item.rakuten.co.jp/diablock/4972825146224/
 ポケットモンスター フシギダネ,NBPM_003,2013-10-25,105×180×13,33×35×45,120,NA,120,12,2,https://item.rakuten.co.jp/diablock/4972825146217/
 ポケットモンスター ヒトカゲ,NBPM_002,2013-10-25,105×180×13,43×27×65,120,NA,120,12,2,https://item.rakuten.co.jp/diablock/4972825146200/
 ポケットモンスター ピカチュウ,NBPM_001,2013-10-25,105×180×13,47×40×55,130,NA,130,12,2,https://item.rakuten.co.jp/diablock/4972825146194/
-ナノブロック®専用ピンセット,NB_019,2013-08-30,50×180×12,14×120×9,NA,NA,NA,12,NA,https://item.rakuten.co.jp/diablock/4972825145470/
+ナノブロック®専用ピンセット,NB_019,2013-08-30,50×180×12,14×120×9,NA,NA,NA,12,None,https://item.rakuten.co.jp/diablock/4972825145470/
 ノイシュバンシュタイン城 デラックスエディション,NB_009,2010-12-14,420×280×100,220×120×400,5800,NA,5800,12,5,https://item.rakuten.co.jp/diablock/4972825140109/
 日本海軍 戦艦 大和,NB_004,2008-10-31,420×210×70,475×90×70,1700,NA,1700,12,5,https://item.rakuten.co.jp/diablock/4972825134467/
