@@ -76,6 +76,10 @@ nanoblock_raw <- nanoblock_raw |>
 
 ## Parsing level ----------------------------------------------------------
 # TODO: Pass the column into a factor or character.
+#nanoblock_raw <- 
+nanoblock_raw <- nanoblock_raw |> 
+  mutate(difficulty_level = str_replace_na(difficulty_level, "None"),
+         difficulty_level = str(difficulty_level))
 
 ## Additional columns -----------------------------------------------------
 # Get the total pieces assuming that all the items in a box set are of equal 
